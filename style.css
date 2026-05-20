@@ -197,7 +197,7 @@ nav {
   pointer-events: none;
 }
 
-.store-btn-soon small {
+.store-btn small {
   display: block;
   font-size: 0.7rem;
   opacity: 0.8;
